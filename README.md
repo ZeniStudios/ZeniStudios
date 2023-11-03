@@ -16,7 +16,7 @@ I'm ZeniStudios, a self-taught Python developer specialized in automation. With 
 
 ## 🛠️ Technologies
 
-- **Languages:** Python
+- **Languages:** Python, Java, JSON
 - **Tools:** Webhooks, API
 
 <!---
