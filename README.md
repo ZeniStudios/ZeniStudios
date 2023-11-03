@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm ZeniStudios, a self-taught Python developer specialized in automation. With a strong passion for coding, I have developed a knack for automating mundane tasks and streamlining processes to increase efficiency and productivity.
+I'm ZeniStudios, a self-taught Python developer specialized in automation. Beyond coding, I wear multiple hats - I'm a YouTuber, Content Creator, and a Musician. With a strong passion for both coding and creativity, I've been able to channel my diverse interests into a range of projects and platforms.
 
 ## 🚀 Skills and Expertise
 
